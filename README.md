@@ -3,11 +3,12 @@
 
 | file      | about |
 | ----------- | ----------- |
-| read02b    | version control      |
-| texrt editor  | read 01       
-| grothmind|groth mind and markdown |
-| design|abook summary |
-| fregrance shop| html practice |
+|[homepage](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/README.md) | this page|
+| [read02b](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/read02b)  | version control      |
+| [texrt editor]( https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/read01.md)  | read 01       
+| [grothmind](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/grothmind.md)|groth mind and markdown |
+| [design](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/design.md)|abook summary |
+| [fregrance shop[(https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/fragraceshop.html)| html practice |
 | | |
 | | |
 
