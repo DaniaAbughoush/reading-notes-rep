@@ -30,7 +30,7 @@ for me i will keep this in my mind to
  
  ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
  
- ###and this is acomparision between html and markdown
+ ### and this is acomparision between html and markdown
 html | mark down
 ------------ | -------------
 for web site | on GitHub
