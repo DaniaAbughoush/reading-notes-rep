@@ -9,6 +9,6 @@
 | [grothmind](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/grothmind.md)|groth mind and markdown |
 | [design](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/design.md)|abook summary |
 | [watch4](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/watch4.md)| watching |
-| [read04c](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/read4c.md]| about java|
-|javascript4(https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/java%20scribt04.md) | java |
+| [read04c](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/read4c.md)| about java|
+|[javascript4](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/java%20scribt04.md) | java |
 
