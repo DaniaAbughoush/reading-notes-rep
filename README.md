@@ -11,4 +11,7 @@
 | [watch4](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/watch4.md)| watching |
 | [read04c](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/read4c.md)| about java|
 |[javascript4](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/java%20scribt04.md) | java |
+|[raed05](https://github.com/DaniaAbughoush/reading-notes-rep/blob/main/read05.md)|reading about java|
+|||
+
 
